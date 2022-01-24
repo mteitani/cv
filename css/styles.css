@@ -1,7 +1,6 @@
-@media (prefers-color-scheme: light){
 body
 {
-    background-color: #EEEEEE;
+    background-color: blue;
 }
 
 hr
@@ -19,5 +18,4 @@ color: #91C483;
 h3
 {
 color: #91C483
-}
 }
