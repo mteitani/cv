@@ -42,3 +42,7 @@ h3{
 .bottom-container{
 
 }
+
+.skill-row{
+    display: inline-block;
+}
