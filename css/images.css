@@ -1,0 +1,28 @@
+.top-cloud{
+    position: absolute;
+    right: 600px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 450px;
+    bottom: 350px;
+}
+
+.rocket{
+    position: absolute;
+    right: 150px;
+    top: 150px;
+}
+
+.sun{
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}
+
+.logo{
+    display: inline-block;
+    width:10%;
+}
